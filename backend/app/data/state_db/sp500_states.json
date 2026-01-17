@@ -1,0 +1,5480 @@
+[
+  {
+    "date": "1984-12-31T00:00:00+00:00",
+    "sp500_close": 181.17999267578125,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": false,
+    "trend_regime": "downtrend",
+    "ma_50_slope": null,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1985-03-31T00:00:00+00:00",
+    "sp500_close": 189.5500030517578,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": null,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1985-06-30T00:00:00+00:00",
+    "sp500_close": 188.6300048828125,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": null,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1985-09-30T00:00:00+00:00",
+    "sp500_close": 202.1699981689453,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": null,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1985-12-31T00:00:00+00:00",
+    "sp500_close": 226.9199981689453,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": null,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1986-03-31T00:00:00+00:00",
+    "sp500_close": 247.35000610351562,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.13680690750367278,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1986-06-30T00:00:00+00:00",
+    "sp500_close": 252.92999267578125,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.14733480498656318,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1986-09-30T00:00:00+00:00",
+    "sp500_close": 249.22000122070312,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.165137385841761,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1986-12-31T00:00:00+00:00",
+    "sp500_close": 284.20001220703125,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.18016800236757385,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1987-03-31T00:00:00+00:00",
+    "sp500_close": 290.1000061035156,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16963428721618187,
+    "ma_200_slope": null,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1987-06-30T00:00:00+00:00",
+    "sp500_close": 329.79998779296875,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16614191610616139,
+    "ma_200_slope": 0.32567818535905274,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1987-09-30T00:00:00+00:00",
+    "sp500_close": 230.3000030517578,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": false,
+    "trend_regime": "downtrend",
+    "ma_50_slope": 0.1254811203972234,
+    "ma_200_slope": 0.2913036617870069,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1987-12-31T00:00:00+00:00",
+    "sp500_close": 267.82000732421875,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.1118917801713244,
+    "ma_200_slope": 0.2955066820877589,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1988-03-31T00:00:00+00:00",
+    "sp500_close": 262.1600036621094,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.0816270523654919,
+    "ma_200_slope": 0.2765016376969098,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1988-06-30T00:00:00+00:00",
+    "sp500_close": 261.5199890136719,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.05635924083335038,
+    "ma_200_slope": 0.23555398769634278,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1988-09-30T00:00:00+00:00",
+    "sp500_close": 273.70001220703125,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.024608025760922584,
+    "ma_200_slope": 0.19483836641859342,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1988-12-31T00:00:00+00:00",
+    "sp500_close": 288.8599853515625,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.03864369994595296,
+    "ma_200_slope": 0.16897387510868864,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1989-03-31T00:00:00+00:00",
+    "sp500_close": 320.5199890136719,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.04576945501576691,
+    "ma_200_slope": 0.16278246098627683,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1989-06-30T00:00:00+00:00",
+    "sp500_close": 351.45001220703125,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06084142838795632,
+    "ma_200_slope": 0.14743478721446326,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1989-09-30T00:00:00+00:00",
+    "sp500_close": 345.989990234375,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07353671405367108,
+    "ma_200_slope": 0.13404042826446552,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1989-12-31T00:00:00+00:00",
+    "sp500_close": 331.8900146484375,
+    "vix_level": null,
+    "vix_regime": "unknown",
+    "vix_vs_60d_avg": null,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07899049797529371,
+    "ma_200_slope": 0.10554232394526043,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1990-03-31T00:00:00+00:00",
+    "sp500_close": 361.2300109863281,
+    "vix_level": 19.729999542236328,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.0,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08556918675792964,
+    "ma_200_slope": 0.12751959668157525,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1990-06-30T00:00:00+00:00",
+    "sp500_close": 322.55999755859375,
+    "vix_level": 15.5,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.879931887675301,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07746756326554254,
+    "ma_200_slope": 0.12678266643337277,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1990-09-30T00:00:00+00:00",
+    "sp500_close": 322.2200012207031,
+    "vix_level": 29.110000610351562,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.3573205101638797,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06381370172747643,
+    "ma_200_slope": 0.1285376468792554,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1990-12-31T00:00:00+00:00",
+    "sp500_close": 367.07000732421875,
+    "vix_level": 26.3799991607666,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.1631393016063798,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06008386644355105,
+    "ma_200_slope": 0.13803895060312052,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1991-03-31T00:00:00+00:00",
+    "sp500_close": 389.8299865722656,
+    "vix_level": 16.8799991607666,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.7843865892259476,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06304066781505446,
+    "ma_200_slope": 0.14701077953375438,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1991-06-30T00:00:00+00:00",
+    "sp500_close": 395.42999267578125,
+    "vix_level": 19.549999237060547,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.9225324226022211,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06143617077469232,
+    "ma_200_slope": 0.15226240070333366,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1991-09-30T00:00:00+00:00",
+    "sp500_close": 375.2200012207031,
+    "vix_level": 15.850000381469727,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.775874154896158,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06415090034009219,
+    "ma_200_slope": 0.14658807753627234,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1991-12-31T00:00:00+00:00",
+    "sp500_close": 412.70001220703125,
+    "vix_level": 19.309999465942383,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.9517589677233033,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07153307221299242,
+    "ma_200_slope": 0.1399115640743188,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1992-03-31T00:00:00+00:00",
+    "sp500_close": 415.3500061035156,
+    "vix_level": 16.18000030517578,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.815844050027525,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07178883067728914,
+    "ma_200_slope": 0.13618604763539313,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1992-06-30T00:00:00+00:00",
+    "sp500_close": 414.0299987792969,
+    "vix_level": 13.350000381469727,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6958924365920662,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06872153641131973,
+    "ma_200_slope": 0.13609445577502036,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1992-09-30T00:00:00+00:00",
+    "sp500_close": 431.3500061035156,
+    "vix_level": 14.279999732971191,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7620803347731863,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06723259208431409,
+    "ma_200_slope": 0.13279927586792356,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1992-12-31T00:00:00+00:00",
+    "sp500_close": 443.3800048828125,
+    "vix_level": 12.569999694824219,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6897434630888462,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.0699547743674604,
+    "ma_200_slope": 0.1385933364663132,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1993-03-31T00:00:00+00:00",
+    "sp500_close": 450.19000244140625,
+    "vix_level": 12.529999732971191,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.704480574154675,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06854538600924427,
+    "ma_200_slope": 0.1449817202695034,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1993-06-30T00:00:00+00:00",
+    "sp500_close": 463.55999755859375,
+    "vix_level": 11.260000228881836,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6501154929971209,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06836384348990067,
+    "ma_200_slope": 0.14506043455193499,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1993-09-30T00:00:00+00:00",
+    "sp500_close": 461.7900085449219,
+    "vix_level": 12.989999771118164,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7627118587123441,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06831312479388503,
+    "ma_200_slope": 0.14172924409809876,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1993-12-31T00:00:00+00:00",
+    "sp500_close": 467.1400146484375,
+    "vix_level": 11.65999984741211,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6983865514048205,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.066958544479273,
+    "ma_200_slope": 0.13869293307112146,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1994-03-31T00:00:00+00:00",
+    "sp500_close": 456.5,
+    "vix_level": 20.450000762939453,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.2088810604630318,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06366194127421806,
+    "ma_200_slope": 0.1380701723793109,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1994-06-30T00:00:00+00:00",
+    "sp500_close": 475.489990234375,
+    "vix_level": 14.970000267028809,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.8906296689320302,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.061595743775963774,
+    "ma_200_slope": 0.13436323381885798,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1994-09-30T00:00:00+00:00",
+    "sp500_close": 453.69000244140625,
+    "vix_level": 14.279999732971191,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.8563582887515746,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.05679664943653849,
+    "ma_200_slope": 0.12904333017926944,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1994-12-31T00:00:00+00:00",
+    "sp500_close": 487.3900146484375,
+    "vix_level": 13.199999809265137,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7999272730498638,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.05515517938520373,
+    "ma_200_slope": 0.1272361268314593,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1995-03-31T00:00:00+00:00",
+    "sp500_close": 533.4000244140625,
+    "vix_level": 13.369999885559082,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.8176179367155493,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.05660330829274611,
+    "ma_200_slope": 0.12735192790801297,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1995-06-30T00:00:00+00:00",
+    "sp500_close": 561.8800048828125,
+    "vix_level": 11.380000114440918,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7056767688486043,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.060936969800755796,
+    "ma_200_slope": 0.12847827686785837,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1995-09-30T00:00:00+00:00",
+    "sp500_close": 605.3699951171875,
+    "vix_level": 12.739999771118164,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7972899342942213,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06646358306777522,
+    "ma_200_slope": 0.13215320067681416,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1995-12-31T00:00:00+00:00",
+    "sp500_close": 640.4299926757812,
+    "vix_level": 12.520000457763672,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7906536483647546,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07574860221362209,
+    "ma_200_slope": 0.13684751845539547,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1996-03-31T00:00:00+00:00",
+    "sp500_close": 669.1199951171875,
+    "vix_level": 18.8799991607666,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.1831945811542197,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08373952360105005,
+    "ma_200_slope": 0.14351337143210122,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1996-06-30T00:00:00+00:00",
+    "sp500_close": 651.989990234375,
+    "vix_level": 13.680000305175781,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.8620455891227781,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08676308752778113,
+    "ma_200_slope": 0.14827747361229274,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1996-09-30T00:00:00+00:00",
+    "sp500_close": 757.02001953125,
+    "vix_level": 16.950000762939453,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.0654173493848802,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09384866725173473,
+    "ma_200_slope": 0.16050449045465065,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1996-12-31T00:00:00+00:00",
+    "sp500_close": 790.8200073242188,
+    "vix_level": 20.920000076293945,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.3003307751219588,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09940864622562369,
+    "ma_200_slope": 0.17247928410947072,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1997-03-31T00:00:00+00:00",
+    "sp500_close": 848.280029296875,
+    "vix_level": 22.139999389648438,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.3585408378101047,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.10545430886919621,
+    "ma_200_slope": 0.1891909275770635,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1997-06-30T00:00:00+00:00",
+    "sp500_close": 899.469970703125,
+    "vix_level": 21.530000686645508,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.3071194856593962,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.12439885884580865,
+    "ma_200_slope": 0.20510912834620956,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1997-09-30T00:00:00+00:00",
+    "sp500_close": 955.4000244140625,
+    "vix_level": 22.90999984741211,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.3735808870083808,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.14718736317026057,
+    "ma_200_slope": 0.21945537157757034,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1997-12-31T00:00:00+00:00",
+    "sp500_close": 1049.3399658203125,
+    "vix_level": 24.010000228881836,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.4200273711544724,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16829307150215775,
+    "ma_200_slope": 0.23577875190549755,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1998-03-31T00:00:00+00:00",
+    "sp500_close": 1090.8199462890625,
+    "vix_level": 24.219999313354492,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.4139187312749277,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.18885853629401336,
+    "ma_200_slope": 0.24989008274636426,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1998-06-30T00:00:00+00:00",
+    "sp500_close": 957.280029296875,
+    "vix_level": 19.709999084472656,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.1455579965670104,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.1981861583224727,
+    "ma_200_slope": 0.2537931652704116,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1998-09-30T00:00:00+00:00",
+    "sp500_close": 1163.6300048828125,
+    "vix_level": 40.95000076293945,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 2.2897562578379147,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.200871372033275,
+    "ma_200_slope": 0.26546791265463987,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1998-12-31T00:00:00+00:00",
+    "sp500_close": 1238.3299560546875,
+    "vix_level": 24.420000076293945,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.3517436585720413,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.20392992995879214,
+    "ma_200_slope": 0.2812493654237913,
+    "xly_xlp_ratio": null,
+    "sector_rotation_regime": "unknown",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1999-03-31T00:00:00+00:00",
+    "sp500_close": 1301.8399658203125,
+    "vix_level": 23.260000228881836,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.277604600593325,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.2046632074517987,
+    "ma_200_slope": 0.2916077687264839,
+    "xly_xlp_ratio": 0.5407801418439716,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1999-06-30T00:00:00+00:00",
+    "sp500_close": 1320.4100341796875,
+    "vix_level": 21.09000015258789,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.1536036734099953,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.20318633759823704,
+    "ma_200_slope": 0.2999056956085788,
+    "xly_xlp_ratio": 0.5818070818070818,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1999-09-30T00:00:00+00:00",
+    "sp500_close": 1388.9100341796875,
+    "vix_level": 25.40999984741211,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.376145637992764,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.21236868471123335,
+    "ma_200_slope": 0.3068765736284851,
+    "xly_xlp_ratio": 0.5731456463153546,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "1999-12-31T00:00:00+00:00",
+    "sp500_close": 1366.4200439453125,
+    "vix_level": 24.639999389648438,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.3233793155771774,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.20938449485071353,
+    "ma_200_slope": 0.30939427234432687,
+    "xly_xlp_ratio": 0.6743554952510177,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2000-03-31T00:00:00+00:00",
+    "sp500_close": 1420.5999755859375,
+    "vix_level": 24.110000610351562,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.2856660132711122,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.209329308439656,
+    "ma_200_slope": 0.3106307474594704,
+    "xly_xlp_ratio": 0.6896171288918677,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2000-06-30T00:00:00+00:00",
+    "sp500_close": 1517.6800537109375,
+    "vix_level": 19.540000915527344,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.040930530566191,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.20847102038276807,
+    "ma_200_slope": 0.31014695878479126,
+    "xly_xlp_ratio": 0.5071207430340557,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2000-09-30T00:00:00+00:00",
+    "sp500_close": 1314.949951171875,
+    "vix_level": 20.56999969482422,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.0933644693572864,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.2013367185789826,
+    "ma_200_slope": 0.30051290247601914,
+    "xly_xlp_ratio": 0.4981238655629495,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2000-12-31T00:00:00+00:00",
+    "sp500_close": 1239.93994140625,
+    "vix_level": 26.850000381469727,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.4134453396509719,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.18957853006236497,
+    "ma_200_slope": 0.2962301718405873,
+    "xly_xlp_ratio": 0.44803063457330417,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2001-03-31T00:00:00+00:00",
+    "sp500_close": 1255.8199462890625,
+    "vix_level": 28.639999389648438,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.4908556398483,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.18123632534123008,
+    "ma_200_slope": 0.28268769318699943,
+    "xly_xlp_ratio": 0.5277103737315495,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2001-06-30T00:00:00+00:00",
+    "sp500_close": 1133.5799560546875,
+    "vix_level": 19.059999465942383,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.992337529671959,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16329222630605986,
+    "ma_200_slope": 0.2631403296308973,
+    "xly_xlp_ratio": 0.5691073772967133,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2001-09-30T00:00:00+00:00",
+    "sp500_close": 1139.449951171875,
+    "vix_level": 31.93000030517578,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.6392961105973354,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.14377148166953277,
+    "ma_200_slope": 0.2427829847848079,
+    "xly_xlp_ratio": 0.4583000758753349,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2001-12-31T00:00:00+00:00",
+    "sp500_close": 1106.72998046875,
+    "vix_level": 23.799999237060547,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.2162766077340863,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.13040563382786144,
+    "ma_200_slope": 0.2225790422307222,
+    "xly_xlp_ratio": 0.5629921419487922,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2002-03-31T00:00:00+00:00",
+    "sp500_close": 1067.1400146484375,
+    "vix_level": 17.399999618530273,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.891225706095991,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.11927019719790627,
+    "ma_200_slope": 0.20043345564205106,
+    "xly_xlp_ratio": 0.5754789363308767,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2002-06-30T00:00:00+00:00",
+    "sp500_close": 916.0700073242188,
+    "vix_level": 25.399999618530273,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.2931999931949492,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.10477892243516213,
+    "ma_200_slope": 0.17706639988029427,
+    "xly_xlp_ratio": 0.6173033553562807,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2002-09-30T00:00:00+00:00",
+    "sp500_close": 936.3099975585938,
+    "vix_level": 39.689998626708984,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.9811009928150565,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09493661333366808,
+    "ma_200_slope": 0.1542822701540184,
+    "xly_xlp_ratio": 0.5727639976637631,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2002-12-31T00:00:00+00:00",
+    "sp500_close": 841.1500244140625,
+    "vix_level": 28.6200008392334,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.416872196661389,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08477508534442746,
+    "ma_200_slope": 0.12796369426462062,
+    "xly_xlp_ratio": 0.5794884651803186,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2003-03-31T00:00:00+00:00",
+    "sp500_close": 963.5900268554688,
+    "vix_level": 29.149999618530273,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.431145310833714,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08008790864766413,
+    "ma_200_slope": 0.11272714120260971,
+    "xly_xlp_ratio": 0.6120086137796645,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2003-06-30T00:00:00+00:00",
+    "sp500_close": 1008.010009765625,
+    "vix_level": 19.520000457763672,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.9590915966793463,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07652144174389928,
+    "ma_200_slope": 0.10173018597812063,
+    "xly_xlp_ratio": 0.6718750088697388,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2003-09-30T00:00:00+00:00",
+    "sp500_close": 1058.199951171875,
+    "vix_level": 22.719999313354492,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.1139637420583048,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07752702989297107,
+    "ma_200_slope": 0.0921216483085845,
+    "xly_xlp_ratio": 0.6786417405983293,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2003-12-31T00:00:00+00:00",
+    "sp500_close": 1144.93994140625,
+    "vix_level": 18.309999465942383,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8993833489661489,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08078593801914538,
+    "ma_200_slope": 0.08825818538187948,
+    "xly_xlp_ratio": 0.7229108994111828,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2004-03-31T00:00:00+00:00",
+    "sp500_close": 1120.6800537109375,
+    "vix_level": 16.739999771118164,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8248372605072368,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08536885405088254,
+    "ma_200_slope": 0.08398473541167682,
+    "xly_xlp_ratio": 0.6938374380372181,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2004-06-30T00:00:00+00:00",
+    "sp500_close": 1104.239990234375,
+    "vix_level": 14.34000015258789,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7101737715129401,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08525708075545793,
+    "ma_200_slope": 0.08046264068103191,
+    "xly_xlp_ratio": 0.6849285177943484,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2004-09-30T00:00:00+00:00",
+    "sp500_close": 1173.8199462890625,
+    "vix_level": 13.34000015258789,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6644716395437857,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08676714059888876,
+    "ma_200_slope": 0.07950614173101872,
+    "xly_xlp_ratio": 0.7202216293336484,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2004-12-31T00:00:00+00:00",
+    "sp500_close": 1203.5999755859375,
+    "vix_level": 13.289999961853027,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6657316043542276,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08826096221804197,
+    "ma_200_slope": 0.0828452162049398,
+    "xly_xlp_ratio": 0.7645147537301351,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2005-03-31T00:00:00+00:00",
+    "sp500_close": 1191.5,
+    "vix_level": 14.020000457763672,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7056632835094109,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08697183734189555,
+    "ma_200_slope": 0.08537298901481646,
+    "xly_xlp_ratio": 0.7202432490879609,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2005-06-30T00:00:00+00:00",
+    "sp500_close": 1220.3299560546875,
+    "vix_level": 12.039999961853027,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6077687384746017,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08621068716956912,
+    "ma_200_slope": 0.09059560837649233,
+    "xly_xlp_ratio": 0.7204395336109203,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2005-09-30T00:00:00+00:00",
+    "sp500_close": 1249.47998046875,
+    "vix_level": 11.920000076293945,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6105410590926763,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08729232395430142,
+    "ma_200_slope": 0.09338561382350352,
+    "xly_xlp_ratio": 0.6978092938181177,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2005-12-31T00:00:00+00:00",
+    "sp500_close": 1280.6600341796875,
+    "vix_level": 12.069999694824219,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6258696098830979,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08712487114304177,
+    "ma_200_slope": 0.0956609787347571,
+    "xly_xlp_ratio": 0.7009446166253968,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2006-03-31T00:00:00+00:00",
+    "sp500_close": 1270.0899658203125,
+    "vix_level": 11.390000343322754,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.5934249338888519,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08603769825307647,
+    "ma_200_slope": 0.09657781497523148,
+    "xly_xlp_ratio": 0.7131355784604415,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2006-06-30T00:00:00+00:00",
+    "sp500_close": 1303.8199462890625,
+    "vix_level": 13.079999923706055,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6853250639575146,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.0862754471592448,
+    "ma_200_slope": 0.09619955434339622,
+    "xly_xlp_ratio": 0.6901611957932359,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2006-09-30T00:00:00+00:00",
+    "sp500_close": 1400.6300048828125,
+    "vix_level": 11.979999542236328,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6298191280880122,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08838010092384935,
+    "ma_200_slope": 0.09803238568830615,
+    "xly_xlp_ratio": 0.6885343167577116,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2006-12-31T00:00:00+00:00",
+    "sp500_close": 1406.8199462890625,
+    "vix_level": 11.5600004196167,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6118938418105301,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08964909988880046,
+    "ma_200_slope": 0.10026502123526364,
+    "xly_xlp_ratio": 0.7343032040169988,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2007-03-31T00:00:00+00:00",
+    "sp500_close": 1530.6199951171875,
+    "vix_level": 14.640000343322754,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7759786060451368,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09344128048233236,
+    "ma_200_slope": 0.10305286608312766,
+    "xly_xlp_ratio": 0.713508430087441,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2007-06-30T00:00:00+00:00",
+    "sp500_close": 1473.989990234375,
+    "vix_level": 16.229999542236328,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8580718276871725,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09549634216693788,
+    "ma_200_slope": 0.10425315129088596,
+    "xly_xlp_ratio": 0.7269871153484102,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2007-09-30T00:00:00+00:00",
+    "sp500_close": 1481.1400146484375,
+    "vix_level": 18.0,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.9485416195198125,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09610918142269662,
+    "ma_200_slope": 0.10578203538453407,
+    "xly_xlp_ratio": 0.6581487211152223,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2007-12-31T00:00:00+00:00",
+    "sp500_close": 1330.6300048828125,
+    "vix_level": 22.5,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.1754257677923352,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.0909707202382874,
+    "ma_200_slope": 0.10440149471044145,
+    "xly_xlp_ratio": 0.5677083616179456,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2008-03-31T00:00:00+00:00",
+    "sp500_close": 1400.3800048828125,
+    "vix_level": 25.610000610351562,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.322830611776492,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08677801882059125,
+    "ma_200_slope": 0.10361093455418588,
+    "xly_xlp_ratio": 0.5513280445144764,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2008-06-30T00:00:00+00:00",
+    "sp500_close": 1282.8299560546875,
+    "vix_level": 23.950000762939453,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.2237182016282833,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07696382712828241,
+    "ma_200_slope": 0.10056364652488738,
+    "xly_xlp_ratio": 0.5323364400418005,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2008-09-30T00:00:00+00:00",
+    "sp500_close": 896.239990234375,
+    "vix_level": 39.38999938964844,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.9683681600430156,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06171478821366238,
+    "ma_200_slope": 0.09222830661223708,
+    "xly_xlp_ratio": 0.5054347687122128,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2008-12-31T00:00:00+00:00",
+    "sp500_close": 735.0900268554688,
+    "vix_level": 40.0,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.9527594951984408,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": false,
+    "trend_regime": "downtrend",
+    "ma_50_slope": 0.04515116404078369,
+    "ma_200_slope": 0.08135499808622768,
+    "xly_xlp_ratio": 0.4518223488993592,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2009-03-31T00:00:00+00:00",
+    "sp500_close": 919.1400146484375,
+    "vix_level": 44.13999938964844,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 2.114119650730347,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.03380023315649832,
+    "ma_200_slope": 0.07187932896796069,
+    "xly_xlp_ratio": 0.46563979296860913,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2009-06-30T00:00:00+00:00",
+    "sp500_close": 1020.6199951171875,
+    "vix_level": 26.350000381469727,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.2506922126329734,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.023466518465065596,
+    "ma_200_slope": 0.06409988282989562,
+    "xly_xlp_ratio": 0.5019573761088278,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2009-09-30T00:00:00+00:00",
+    "sp500_close": 1095.6300048828125,
+    "vix_level": 25.610000610351562,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.2047701861735602,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.016387894029639586,
+    "ma_200_slope": 0.05571234915713725,
+    "xly_xlp_ratio": 0.5394736901249081,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2009-12-31T00:00:00+00:00",
+    "sp500_close": 1104.489990234375,
+    "vix_level": 21.68000030517578,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.013155142830387,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.015943954908611366,
+    "ma_200_slope": 0.04868647243903704,
+    "xly_xlp_ratio": 0.5623347417833948,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2010-03-31T00:00:00+00:00",
+    "sp500_close": 1089.4100341796875,
+    "vix_level": 17.59000015258789,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8193272494568717,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.016795218769797983,
+    "ma_200_slope": 0.041664518614685106,
+    "xly_xlp_ratio": 0.5878983135295961,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2010-06-30T00:00:00+00:00",
+    "sp500_close": 1049.3299560546875,
+    "vix_level": 34.540000915527344,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.5804284750070003,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.01397291991277009,
+    "ma_200_slope": 0.03661216026354802,
+    "xly_xlp_ratio": 0.5711764541326785,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2010-09-30T00:00:00+00:00",
+    "sp500_close": 1180.550048828125,
+    "vix_level": 23.700000762939453,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.0754396254496108,
+    "sp500_above_50ma": false,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.011529548502830332,
+    "ma_200_slope": 0.032390249244194744,
+    "xly_xlp_ratio": 0.5991750511676388,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2010-12-31T00:00:00+00:00",
+    "sp500_close": 1327.219970703125,
+    "vix_level": 17.75,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8022719736660023,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.01356286859564254,
+    "ma_200_slope": 0.031753381013111835,
+    "xly_xlp_ratio": 0.6381781052381417,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2011-03-31T00:00:00+00:00",
+    "sp500_close": 1345.199951171875,
+    "vix_level": 17.739999771118164,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8025091495237302,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.013118979664634,
+    "ma_200_slope": 0.03667418702347936,
+    "xly_xlp_ratio": 0.6525735149980905,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2011-06-30T00:00:00+00:00",
+    "sp500_close": 1218.8900146484375,
+    "vix_level": 16.520000457763672,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.7457229468748153,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.010498418525592442,
+    "ma_200_slope": 0.04219454407611315,
+    "xly_xlp_ratio": 0.6437720088674918,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2011-09-30T00:00:00+00:00",
+    "sp500_close": 1246.9599609375,
+    "vix_level": 42.959999084472656,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.902021078864572,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.009571984952906707,
+    "ma_200_slope": 0.04543841555740164,
+    "xly_xlp_ratio": 0.5876601616603373,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2011-12-31T00:00:00+00:00",
+    "sp500_close": 1365.6800537109375,
+    "vix_level": 23.399999618530273,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.0341246238181128,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.008807968277573922,
+    "ma_200_slope": 0.048633167424820906,
+    "xly_xlp_ratio": 0.6004924352408502,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2012-03-31T00:00:00+00:00",
+    "sp500_close": 1310.3299560546875,
+    "vix_level": 15.5,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.6883636930222222,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.001238801386584044,
+    "ma_200_slope": 0.05011886247892396,
+    "xly_xlp_ratio": 0.6615316568366579,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2012-06-30T00:00:00+00:00",
+    "sp500_close": 1406.5799560546875,
+    "vix_level": 17.079999923706055,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.761039073954915,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": -0.001126976207317291,
+    "ma_200_slope": 0.05255217202520381,
+    "xly_xlp_ratio": 0.629565691730116,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2012-09-30T00:00:00+00:00",
+    "sp500_close": 1416.1800537109375,
+    "vix_level": 15.729999542236328,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.7046438505860689,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": -0.0008763762156468326,
+    "ma_200_slope": 0.05523469732980692,
+    "xly_xlp_ratio": 0.6529444393577085,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2012-12-31T00:00:00+00:00",
+    "sp500_close": 1514.6800537109375,
+    "vix_level": 18.020000457763672,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8108533972017885,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": -9.533883514939e-06,
+    "ma_200_slope": 0.05946668662445468,
+    "xly_xlp_ratio": 0.6796561110682398,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2013-03-31T00:00:00+00:00",
+    "sp500_close": 1630.739990234375,
+    "vix_level": 12.699999809265137,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.5764473510713779,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.004511256050285101,
+    "ma_200_slope": 0.06320017162741633,
+    "xly_xlp_ratio": 0.6663313979124388,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2013-06-30T00:00:00+00:00",
+    "sp500_close": 1632.969970703125,
+    "vix_level": 16.860000610351562,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.7669214246110476,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.012408841553406576,
+    "ma_200_slope": 0.06501886713251885,
+    "xly_xlp_ratio": 0.7108646852677482,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2013-09-30T00:00:00+00:00",
+    "sp500_close": 1805.81005859375,
+    "vix_level": 16.600000381469727,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.7692961423022772,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.020925985763868164,
+    "ma_200_slope": 0.06840879294020345,
+    "xly_xlp_ratio": 0.7616834451049238,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2013-12-31T00:00:00+00:00",
+    "sp500_close": 1859.449951171875,
+    "vix_level": 13.720000267028809,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6411265006402269,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.03314048200339594,
+    "ma_200_slope": 0.0738251200304897,
+    "xly_xlp_ratio": 0.7774546596421089,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2014-03-31T00:00:00+00:00",
+    "sp500_close": 1923.5699462890625,
+    "vix_level": 13.880000114440918,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6533763319506876,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.046306148277788346,
+    "ma_200_slope": 0.07942941866519042,
+    "xly_xlp_ratio": 0.7515095118046982,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2014-06-30T00:00:00+00:00",
+    "sp500_close": 2003.3699951171875,
+    "vix_level": 11.569999694824219,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.5487356485354581,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.05572612775815155,
+    "ma_200_slope": 0.08427433983392901,
+    "xly_xlp_ratio": 0.747870903870396,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2014-09-30T00:00:00+00:00",
+    "sp500_close": 2067.56005859375,
+    "vix_level": 16.309999465942383,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.7791463054123642,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.06540326628817567,
+    "ma_200_slope": 0.09029847814751035,
+    "xly_xlp_ratio": 0.739193100632575,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2014-12-31T00:00:00+00:00",
+    "sp500_close": 2104.5,
+    "vix_level": 19.200000762939453,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.9211947101052684,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07527136325803448,
+    "ma_200_slope": 0.09539533989129385,
+    "xly_xlp_ratio": 0.7439678183999623,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2015-03-31T00:00:00+00:00",
+    "sp500_close": 2107.389892578125,
+    "vix_level": 15.289999961853027,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.7388079512815177,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08159355602896204,
+    "ma_200_slope": 0.10027269447792825,
+    "xly_xlp_ratio": 0.7729790303578357,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2015-06-30T00:00:00+00:00",
+    "sp500_close": 1972.1800537109375,
+    "vix_level": 18.229999542236328,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8817980791246932,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.0861159525850629,
+    "ma_200_slope": 0.10258052820112327,
+    "xly_xlp_ratio": 0.8033614055525005,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2015-09-30T00:00:00+00:00",
+    "sp500_close": 2080.409912109375,
+    "vix_level": 24.5,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.181339655784922,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08836882944899929,
+    "ma_200_slope": 0.1045346150357985,
+    "xly_xlp_ratio": 0.7868192868965266,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2015-12-31T00:00:00+00:00",
+    "sp500_close": 1932.22998046875,
+    "vix_level": 18.209999084472656,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8841879945303389,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08581518355968787,
+    "ma_200_slope": 0.10503335113397562,
+    "xly_xlp_ratio": 0.7740146669022929,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2016-03-31T00:00:00+00:00",
+    "sp500_close": 2096.949951171875,
+    "vix_level": 13.949999809265137,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6854924485672533,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08198160639856476,
+    "ma_200_slope": 0.10513616907596332,
+    "xly_xlp_ratio": 0.7453825520812926,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2016-06-30T00:00:00+00:00",
+    "sp500_close": 2170.949951171875,
+    "vix_level": 15.630000114440918,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.7702100111560213,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07837368242783964,
+    "ma_200_slope": 0.10533618251345214,
+    "xly_xlp_ratio": 0.7077062139514577,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2016-09-30T00:00:00+00:00",
+    "sp500_close": 2198.81005859375,
+    "vix_level": 13.289999961853027,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6650819454291735,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07629062851434512,
+    "ma_200_slope": 0.10511004472594988,
+    "xly_xlp_ratio": 0.7521142857798321,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2016-12-31T00:00:00+00:00",
+    "sp500_close": 2363.639892578125,
+    "vix_level": 14.039999961853027,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7083813335198162,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.07712137945782514,
+    "ma_200_slope": 0.10550697006001598,
+    "xly_xlp_ratio": 0.7870818310488182,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2017-03-31T00:00:00+00:00",
+    "sp500_close": 2411.800048828125,
+    "vix_level": 12.369999885559082,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6267734032809611,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08058587785628306,
+    "ma_200_slope": 0.10565968742087646,
+    "xly_xlp_ratio": 0.8056980029102966,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2017-06-30T00:00:00+00:00",
+    "sp500_close": 2471.64990234375,
+    "vix_level": 11.180000305175781,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.5733627519397047,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08263560711911049,
+    "ma_200_slope": 0.1059524460424539,
+    "xly_xlp_ratio": 0.815708040533555,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2017-09-30T00:00:00+00:00",
+    "sp500_close": 2647.580078125,
+    "vix_level": 9.510000228881836,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.5006317230499802,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08742753588413052,
+    "ma_200_slope": 0.10766507407071473,
+    "xly_xlp_ratio": 0.8343831288899153,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2017-12-31T00:00:00+00:00",
+    "sp500_close": 2713.830078125,
+    "vix_level": 11.039999961853027,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.5902796315814826,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09181828752856473,
+    "ma_200_slope": 0.11117495958504948,
+    "xly_xlp_ratio": 0.8673756679575887,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2018-03-31T00:00:00+00:00",
+    "sp500_close": 2705.27001953125,
+    "vix_level": 19.969999313354492,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.0765498272907381,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09290379419330062,
+    "ma_200_slope": 0.11348032827658605,
+    "xly_xlp_ratio": 0.9622838576844693,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2018-06-30T00:00:00+00:00",
+    "sp500_close": 2901.52001953125,
+    "vix_level": 16.09000015258789,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8700667903701763,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09644555072079966,
+    "ma_200_slope": 0.11864698806592158,
+    "xly_xlp_ratio": 1.0605473087617372,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2018-09-30T00:00:00+00:00",
+    "sp500_close": 2760.169921875,
+    "vix_level": 12.119999885559082,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6617105037678852,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09774247396892011,
+    "ma_200_slope": 0.12104587892814962,
+    "xly_xlp_ratio": 1.0867791633356736,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2018-12-31T00:00:00+00:00",
+    "sp500_close": 2784.489990234375,
+    "vix_level": 25.420000076293945,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.3789237686720237,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.0962399456870984,
+    "ma_200_slope": 0.12288452724006965,
+    "xly_xlp_ratio": 0.9748917341112371,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2019-03-31T00:00:00+00:00",
+    "sp500_close": 2752.06005859375,
+    "vix_level": 13.710000038146973,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7457504199484807,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09266062078565117,
+    "ma_200_slope": 0.12418268986889268,
+    "xly_xlp_ratio": 1.0145250154668262,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2019-06-30T00:00:00+00:00",
+    "sp500_close": 2926.4599609375,
+    "vix_level": 15.079999923706055,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8197211370733012,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09178681377397983,
+    "ma_200_slope": 0.12526398888265092,
+    "xly_xlp_ratio": 1.0263474907411312,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2019-09-30T00:00:00+00:00",
+    "sp500_close": 3140.97998046875,
+    "vix_level": 16.239999771118164,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8804633501316507,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08986612758740133,
+    "ma_200_slope": 0.12743689469507277,
+    "xly_xlp_ratio": 0.9825789689559903,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2019-12-31T00:00:00+00:00",
+    "sp500_close": 2954.219970703125,
+    "vix_level": 13.779999732971191,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.7467620287922561,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08816314874018923,
+    "ma_200_slope": 0.1277235569332861,
+    "xly_xlp_ratio": 0.9957129174384544,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2020-03-31T00:00:00+00:00",
+    "sp500_close": 3044.31005859375,
+    "vix_level": 53.540000915527344,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 2.801430234693178,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.08760386218930014,
+    "ma_200_slope": 0.1271632409725731,
+    "xly_xlp_ratio": 0.9003120950342125,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2020-06-30T00:00:00+00:00",
+    "sp500_close": 3500.31005859375,
+    "vix_level": 30.43000030517578,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.567089250686593,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.09562540171058176,
+    "ma_200_slope": 0.12917679696536835,
+    "xly_xlp_ratio": 1.0889324728319911,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2020-09-30T00:00:00+00:00",
+    "sp500_close": 3621.6298828125,
+    "vix_level": 26.3700008392334,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.3413704041978074,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.10189228706991132,
+    "ma_200_slope": 0.13200201979199186,
+    "xly_xlp_ratio": 1.1464898535596602,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2020-12-31T00:00:00+00:00",
+    "sp500_close": 3811.14990234375,
+    "vix_level": 22.75,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.1468467984176067,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.11023370447007011,
+    "ma_200_slope": 0.13441404973791413,
+    "xly_xlp_ratio": 1.1918458565881889,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2021-03-31T00:00:00+00:00",
+    "sp500_close": 4204.10986328125,
+    "vix_level": 19.399999618530273,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.9714328424235843,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.1283537703601621,
+    "ma_200_slope": 0.14035433274186418,
+    "xly_xlp_ratio": 1.230200653865158,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2021-06-30T00:00:00+00:00",
+    "sp500_close": 4522.68017578125,
+    "vix_level": 15.829999923706055,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.7908541303949572,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.15001681034031975,
+    "ma_200_slope": 0.14790084339832268,
+    "xly_xlp_ratio": 1.2759039583875798,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2021-09-30T00:00:00+00:00",
+    "sp500_close": 4567.0,
+    "vix_level": 23.139999389648438,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.1454122137714782,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16207543673582595,
+    "ma_200_slope": 0.1557099641458328,
+    "xly_xlp_ratio": 1.303384707252447,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": 52.21611475667836
+      }
+    }
+  },
+  {
+    "date": "2021-12-31T00:00:00+00:00",
+    "sp500_close": 4373.93994140625,
+    "vix_level": 17.219999313354492,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8484151402778252,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16996875383274038,
+    "ma_200_slope": 0.1607810886884835,
+    "xly_xlp_ratio": 1.3256387033017438,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2022-03-31T00:00:00+00:00",
+    "sp500_close": 4132.14990234375,
+    "vix_level": 20.559999465942383,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.0080737159541058,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.1707507392836612,
+    "ma_200_slope": 0.16266328746674236,
+    "xly_xlp_ratio": 1.2188694260632345,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2022-06-30T00:00:00+00:00",
+    "sp500_close": 3955.0,
+    "vix_level": 28.709999084472656,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.3934637965815737,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16088870044651954,
+    "ma_200_slope": 0.1648117507441001,
+    "xly_xlp_ratio": 0.9523413351778612,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2022-09-30T00:00:00+00:00",
+    "sp500_close": 4080.110107421875,
+    "vix_level": 31.6200008392334,
+    "vix_regime": "high",
+    "vix_vs_60d_avg": 1.5179786284181698,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.14779927744713084,
+    "ma_200_slope": 0.16696852047083802,
+    "xly_xlp_ratio": 1.067360930481962,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2022-12-31T00:00:00+00:00",
+    "sp500_close": 3970.14990234375,
+    "vix_level": 21.670000076293945,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.0410011319731358,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.13640072488711943,
+    "ma_200_slope": 0.16525608282272075,
+    "xly_xlp_ratio": 0.8662642412800271,
+    "sector_rotation_regime": "risk_off",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2023-03-31T00:00:00+00:00",
+    "sp500_close": 4179.830078125,
+    "vix_level": 18.700000762939453,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.9033234936427676,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.1293100420857099,
+    "ma_200_slope": 0.16394844707831407,
+    "xly_xlp_ratio": 1.0008030726720518,
+    "sector_rotation_regime": "neutral",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2023-06-30T00:00:00+00:00",
+    "sp500_close": 4507.66015625,
+    "vix_level": 13.59000015258789,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6620011114364467,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.1271926916404508,
+    "ma_200_slope": 0.16320318224630642,
+    "xly_xlp_ratio": 1.1447350798890308,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2023-09-30T00:00:00+00:00",
+    "sp500_close": 4567.7998046875,
+    "vix_level": 17.520000457763672,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.868868063235737,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.1272718596782126,
+    "ma_200_slope": 0.16026372578375858,
+    "xly_xlp_ratio": 1.16974278040382,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2023-12-31T00:00:00+00:00",
+    "sp500_close": 5096.27001953125,
+    "vix_level": 12.449999809265137,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6318193249030266,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.13137557633924507,
+    "ma_200_slope": 0.15816132286856835,
+    "xly_xlp_ratio": 1.2412189406421867,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2024-03-31T00:00:00+00:00",
+    "sp500_close": 5277.509765625,
+    "vix_level": 13.010000228881836,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.67809273381674,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.13712678107218038,
+    "ma_200_slope": 0.15680690287396506,
+    "xly_xlp_ratio": 1.2040989910935112,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2024-06-30T00:00:00+00:00",
+    "sp500_close": 5648.39990234375,
+    "vix_level": 12.4399995803833,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.6563142764599735,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.14387542167680817,
+    "ma_200_slope": 0.15850122120105944,
+    "xly_xlp_ratio": 1.190911396808805,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2024-09-30T00:00:00+00:00",
+    "sp500_close": 6032.3798828125,
+    "vix_level": 16.729999542236328,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8895939066913395,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.15206197028449328,
+    "ma_200_slope": 0.16339865122771002,
+    "xly_xlp_ratio": 1.2070481633565513,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2024-12-31T00:00:00+00:00",
+    "sp500_close": 5954.5,
+    "vix_level": 17.350000381469727,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.9261154065313296,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.15822017977539235,
+    "ma_200_slope": 0.16878016487734993,
+    "xly_xlp_ratio": 1.4269813278310333,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": 16.747165352884362
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2025-03-31T00:00:00+00:00",
+    "sp500_close": 5911.68994140625,
+    "vix_level": 22.280000686645508,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 1.1843294650143854,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.15825351037829005,
+    "ma_200_slope": 0.17305483036714378,
+    "xly_xlp_ratio": 1.2088895012914949,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2025-06-30T00:00:00+00:00",
+    "sp500_close": 6460.259765625,
+    "vix_level": 16.729999542236328,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.9035672572710627,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16018447318348206,
+    "ma_200_slope": 0.18027043549578398,
+    "xly_xlp_ratio": 1.342040252899773,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2025-09-30T00:00:00+00:00",
+    "sp500_close": 6849.08984375,
+    "vix_level": 16.280000686645508,
+    "vix_regime": "normal",
+    "vix_vs_60d_avg": 0.8851755234119302,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16187295039584537,
+    "ma_200_slope": 0.1877800354529443,
+    "xly_xlp_ratio": 1.5289013078419211,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2025-12-31T00:00:00+00:00",
+    "sp500_close": 6977.27001953125,
+    "vix_level": 14.949999809265137,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.8149285364010481,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16094131048150045,
+    "ma_200_slope": 0.19376769796140306,
+    "xly_xlp_ratio": 1.537203954595674,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  },
+  {
+    "date": "2026-01-31T00:00:00+00:00",
+    "sp500_close": 6951.7099609375,
+    "vix_level": 14.949999809265137,
+    "vix_regime": "low",
+    "vix_vs_60d_avg": 0.8169994073090274,
+    "sp500_above_50ma": true,
+    "sp500_above_200ma": true,
+    "trend_regime": "uptrend",
+    "ma_50_slope": 0.16008854284753976,
+    "ma_200_slope": 0.19909542705312114,
+    "xly_xlp_ratio": 1.4751992601433623,
+    "sector_rotation_regime": "risk_on",
+    "cape_ratio": null,
+    "cape_percentile": null,
+    "buffett_indicator": null,
+    "buffett_percentile": null,
+    "breadth_value": null,
+    "breadth_regime": "unknown",
+    "leadership_concentration": null,
+    "leadership_regime": "unknown",
+    "outcomes": {
+      "3m": {
+        "return_pct": null
+      },
+      "6m": {
+        "return_pct": null
+      },
+      "12m": {
+        "return_pct": null
+      }
+    }
+  }
+]
